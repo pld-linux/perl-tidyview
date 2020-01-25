@@ -3,7 +3,6 @@
 %bcond_with	tests		# perform "make test" (requires DISPLAY)
 
 %define		pdir	tidyview
-%include	/usr/lib/rpm/macros.perl
 Summary:	Preview the effects of perltidy's plethora of options
 Name:		perl-tidyview
 Version:	1.14
